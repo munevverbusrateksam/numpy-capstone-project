@@ -1,2 +1,2 @@
 # numpy-capstone-project
-In that project, I inspect the blood transfusion data using Numpy.
+In that project, I inspected the blood transfusion data using Numpy.
